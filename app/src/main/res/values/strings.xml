@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPS Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="uao_places">
+        <item></item>
+    </string-array>
+</resources>
